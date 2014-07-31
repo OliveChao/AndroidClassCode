@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TakaApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="reply">Please reply with:</string>
+    <string name="subscribe">1.Subscribe</string>
+    <string name="unsubscribe">2.Unsubscribe</string> 
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="recycler">1.Recycler</string>
+    <string name="garbage_collector">2.Garbage Collector</string>
+    <string name="choice">Choose what you want to buy/sell:</string>
+    <string name="plastic">1.Plastic</string>
+    <string name="metal">2.Metal</string>
+    <string name="both">3.Both</string>
+    <string name="quantity">Please input quantity:</string>
+         
+
+</resources>
