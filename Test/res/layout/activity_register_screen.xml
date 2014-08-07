@@ -15,7 +15,7 @@
         android:text="@string/user_name" />
 
     <EditText
-        android:id="@+id/editText1"
+        android:id="@+id/etRegisterUserName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="25dp"
@@ -37,7 +37,7 @@
         android:text="@string/email" />
 
     <EditText
-        android:id="@+id/editText2"
+        android:id="@+id/etRegisterEmail"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="25dp"
@@ -56,7 +56,7 @@
         android:text="@string/password" />
 
     <EditText
-        android:id="@+id/editText3"
+        android:id="@+id/etRegisterPassword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="25dp"
